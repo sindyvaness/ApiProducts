@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJ1n93luWB4Tcap6muUVVLw2oQDA70tdGuguvY4QmZGUJcqWqhQm6Gxm+/AkCwPxnrUT4ojoE6RSyVes5zm5SQ==",
+  "dgSpecHash": "t/iXHnJLh69A1B9EEFGsvsaE4iL9DGjfShBBPPng6uA3K0QeZzxkeJc5XgSZPe7VbieE3x94t8nPwPHMOcT/Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement.Test\\APIRestProductManagement.Test.csproj",
+  "projectFilePath": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProduct\\APIRestProductManagement\\APIRestProductManagement.Test\\APIRestProductManagement.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SINDYVANESS\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\SINDYVANESS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

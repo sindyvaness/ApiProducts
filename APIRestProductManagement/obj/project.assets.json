@@ -2258,11 +2258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement.csproj",
+      "projectUniqueName": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProduct\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement.csproj",
       "projectName": "APIRestProductManagement",
-      "projectPath": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement.csproj",
+      "projectPath": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProduct\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement.csproj",
       "packagesPath": "C:\\Users\\SINDYVANESS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProductManagement\\APIRestProductManagement\\APIRestProductManagement\\obj\\",
+      "outputPath": "C:\\Users\\SINDYVANESS\\OneDrive\\00-LookingForJob\\02-Oportunities\\VidriosBrazil\\APIRestProduct\\APIRestProductManagement\\APIRestProductManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
