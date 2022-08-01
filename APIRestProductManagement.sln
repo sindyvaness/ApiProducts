@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRestProductManagement", "APIRestProductManagement\APIRestProductManagement.csproj", "{CE13452F-B3FA-4973-9471-034DD876E4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRestProductManagement.Test", "APIRestProductManagement.Test\APIRestProductManagement.Test.csproj", "{CF9F369F-0C40-4921-B965-D39B17622EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE13452F-B3FA-4973-9471-034DD876E4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE13452F-B3FA-4973-9471-034DD876E4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE13452F-B3FA-4973-9471-034DD876E4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE13452F-B3FA-4973-9471-034DD876E4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9F369F-0C40-4921-B965-D39B17622EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9F369F-0C40-4921-B965-D39B17622EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9F369F-0C40-4921-B965-D39B17622EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9F369F-0C40-4921-B965-D39B17622EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E691A577-18E4-474E-AD9A-D6AB4B6E7F55}
+	EndGlobalSection
+EndGlobal
